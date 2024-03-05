@@ -4,7 +4,7 @@
 int function(int x){
 	if(x>0)return function(x-2);
 }
-
+//scrie ordonat
 int main(){
 	int a=30, i=0;
 
